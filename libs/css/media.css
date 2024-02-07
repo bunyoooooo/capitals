@@ -1,0 +1,7 @@
+@media(prefers-color-schrmr:dark){
+    :root{
+        --dark:#fff;
+        --grey:#fff;
+        --bg-color:#202c36;
+    }
+}
